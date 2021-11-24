@@ -1,0 +1,50 @@
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\資策會上課\.net 元件開發\作業\正確作業VS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loginForm.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.刪除菜單Form.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4_AddMenu.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1_Manager.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_student.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_classSever.resources
+C:\Users\user\Documents\資策會上課\期中專題\正確作業VS\林藜茜\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1_SignUp.resources
